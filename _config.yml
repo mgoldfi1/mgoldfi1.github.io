@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Matt's Coding Blog
 header-img: img/home-bg.png
 email: mgoldfi1@binghamton.edu
 copyright_name: mgoldfi1
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning Web Development
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mgoldfi1
