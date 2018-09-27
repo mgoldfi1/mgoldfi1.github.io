@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Variables, Hoisting, and Scope in JS"
-date:       2018-09-27 16:00:32 +0000
+date:       2018-09-27 12:00:33 -0400
 permalink:  variables_hoisting_and_scope_in_js
 ---
 
