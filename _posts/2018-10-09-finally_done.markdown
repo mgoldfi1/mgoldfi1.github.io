@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Finally Done"
-date:       2018-10-09 14:49:43 +0000
+date:       2018-10-09 10:49:44 -0400
 permalink:  finally_done
 ---
 
